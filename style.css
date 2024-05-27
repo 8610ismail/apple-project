@@ -369,6 +369,23 @@ p {
 .footer h4 {
     color: white;
 }
+span{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bottom{
+    color: rgb(146, 142, 142);
+    /* margin: 8px; */
+    padding: 10px;
+    /* margin-left: 50px; */
+    /* background-color: #1D1D1F; */
+}
+span .bottom{
+    color: white;
+}
+
+
 
 @media (max-width:1300px) {
     .col {
